@@ -1,4 +1,4 @@
-package com.dicoding.newsapp.data.remote.response
+package com.roynaldi19.dc3_07newsapp.data.remote.response
 
 import com.google.gson.annotations.SerializedName
 

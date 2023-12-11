@@ -1,4 +1,4 @@
-package com.dicoding.newsapp.ui
+package com.roynaldi19.dc3_07newsapp.ui
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -10,11 +10,11 @@ import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
-import com.dicoding.newsapp.R
-import com.dicoding.newsapp.data.local.entity.NewsEntity
-import com.dicoding.newsapp.databinding.ItemNewsBinding
-import com.dicoding.newsapp.ui.NewsAdapter.MyViewHolder
-import com.dicoding.newsapp.utils.DateFormatter
+import com.roynaldi19.dc3_07newsapp.R
+import com.roynaldi19.dc3_07newsapp.data.local.entity.NewsEntity
+import com.roynaldi19.dc3_07newsapp.databinding.ItemNewsBinding
+import com.roynaldi19.dc3_07newsapp.ui.NewsAdapter.MyViewHolder
+import com.roynaldi19.dc3_07newsapp.utils.DateFormatter
 
 class NewsAdapter : ListAdapter<NewsEntity, MyViewHolder>(DIFF_CALLBACK) {
 

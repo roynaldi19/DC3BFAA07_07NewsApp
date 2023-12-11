@@ -1,4 +1,4 @@
-package com.dicoding.newsapp.data.remote.retrofit
+package com.roynaldi19.dc3_07newsapp.data.remote.retrofit
 
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor

@@ -1,4 +1,4 @@
-package com.dicoding.newsapp.ui
+package com.roynaldi19.dc3_07newsapp.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.dicoding.newsapp.databinding.FragmentNewsBinding
+import com.roynaldi19.dc3_07newsapp.databinding.FragmentNewsBinding
 
 class NewsFragment : Fragment() {
 

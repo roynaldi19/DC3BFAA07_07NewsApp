@@ -1,4 +1,4 @@
-package com.dicoding.newsapp.ui
+package com.roynaldi19.dc3_07newsapp.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

@@ -1,8 +1,8 @@
-package com.dicoding.newsapp.data.local.room
+package com.roynaldi19.dc3_07newsapp.data.local.room
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
-import com.dicoding.newsapp.data.local.entity.NewsEntity
+import com.roynaldi19.dc3_07newsapp.data.local.entity.NewsEntity
 
 @Dao
 interface NewsDao {

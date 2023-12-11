@@ -1,4 +1,4 @@
-package com.dicoding.newsapp.utils
+package com.roynaldi19.dc3_07newsapp.utils
 
 import android.os.Handler
 import android.os.Looper

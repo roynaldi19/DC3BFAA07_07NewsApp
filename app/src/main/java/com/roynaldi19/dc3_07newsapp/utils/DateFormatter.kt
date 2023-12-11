@@ -1,4 +1,4 @@
-package com.dicoding.newsapp.utils
+package com.roynaldi19.dc3_07newsapp.utils
 
 import java.text.DateFormat
 import java.text.ParseException

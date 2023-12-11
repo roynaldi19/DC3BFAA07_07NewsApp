@@ -1,10 +1,10 @@
-package com.dicoding.newsapp.ui
+package com.roynaldi19.dc3_07newsapp.ui
 
 import android.os.Bundle
 import androidx.annotation.StringRes
 import androidx.appcompat.app.AppCompatActivity
-import com.dicoding.newsapp.R
-import com.dicoding.newsapp.databinding.ActivityHomeBinding
+import com.roynaldi19.dc3_07newsapp.R
+import com.roynaldi19.dc3_07newsapp.databinding.ActivityHomeBinding
 import com.google.android.material.tabs.TabLayout
 import com.google.android.material.tabs.TabLayoutMediator
 

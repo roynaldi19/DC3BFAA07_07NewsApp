@@ -1,4 +1,4 @@
-package com.dicoding.newsapp.data.local.entity
+package com.roynaldi19.dc3_07newsapp.data.local.entity
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
